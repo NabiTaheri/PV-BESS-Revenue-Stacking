@@ -1,0 +1,3 @@
+regime,base_count,sample_count,any_greedy_breach_pct,max_excursion_mwh_median,max_excursion_mwh_p95,max_excursion_mwh_max,excursion_over_0_01mwh_pct,excursion_over_0_1mwh_pct,excursion_over_1mwh_pct,breached_intervals_median,breached_intervals_p95,unrestored_end_month_mwh_median,unrestored_end_month_mwh_p95
+reference,2,40,100.0,0.0561601182092612,0.2648352512753753,0.2754257448873727,97.5,42.5,0.0,2.0,4.049999999999997,0.0,0.23986683139172926
+stress,2,40,100.0,177.49834962140943,300.0117504104603,385.0265476674314,100.0,100.0,100.0,2397.5,2719.4,158.30610785234092,302.85553010121697

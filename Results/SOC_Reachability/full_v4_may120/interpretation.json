@@ -1,0 +1,8 @@
+{
+  "reconstruction": "Stage-2 monthly activation energy exactly validated against 15-minute accepted reserve exposures",
+  "methods": "Optimistic 15-minute interval reachability using fixed S3 baseline dispatch and post-reservation recovery headroom; allows same-slot recovery and continuous signed recourse, and does not impose daily terminal SOC.",
+  "failed_case": "No recovery schedule exists within this RELAXED reconstructed model; physical feasibility under real service delivery requires additional time-resolved validation.",
+  "passed_case": "Only feasible in the relaxed reachability model; NOT verified physically feasible or cost-neutral.",
+  "selection": "explicit convergence-selected IDs",
+  "warning": "S2/S3 conditional activation factors are distributed uniformly over intervals with accepted capacity. The source Stage-2 data do not store realised activation timestamps. Report conditional model-based rates, never measured or real-world service infeasibility rates."
+}

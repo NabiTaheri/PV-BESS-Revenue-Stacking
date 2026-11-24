@@ -1,0 +1,17 @@
+base_run,regime,scenario,n_samples,infeasible,terminal_zero_deviation_reachable,mean_available_charge_mw,total_available_charge_internal_mwh
+run_0001_seed_1010,reference,remaining_only_V4,20,0,20,0.7886537765391494,557.4204892578707
+run_0001_seed_1010,reference,remaining_plus_recovery_locks,20,0,20,2.969894096141211,2099.1211471526076
+run_0001_seed_1010,reference,full_rated_power_minus_DA,20,0,20,4.767042288140734,3369.3454892578707
+run_0001_seed_1010,reference,full_rated_power_ignoring_DA,20,0,20,5.0,3534.0
+run_0001_seed_1010,stress,remaining_only_V4,20,20,0,0.7886537765391494,557.4204892578707
+run_0001_seed_1010,stress,remaining_plus_recovery_locks,20,0,20,2.969894096141211,2099.1211471526076
+run_0001_seed_1010,stress,full_rated_power_minus_DA,20,0,20,4.767042288140734,3369.3454892578707
+run_0001_seed_1010,stress,full_rated_power_ignoring_DA,20,0,20,5.0,3534.0
+run_0002_seed_1011,reference,remaining_only_V4,20,0,20,0.46408580206821787,328.0158449018164
+run_0002_seed_1011,reference,remaining_plus_recovery_locks,20,0,20,2.817306768320862,1991.2724238491846
+run_0002_seed_1011,reference,full_rated_power_minus_DA,20,0,20,4.762846152647552,3366.37966069129
+run_0002_seed_1011,reference,full_rated_power_ignoring_DA,20,0,20,5.0,3534.0
+run_0002_seed_1011,stress,remaining_only_V4,20,20,0,0.46408580206821787,328.0158449018164
+run_0002_seed_1011,stress,remaining_plus_recovery_locks,20,0,20,2.817306768320862,1991.2724238491846
+run_0002_seed_1011,stress,full_rated_power_minus_DA,20,0,20,4.762846152647552,3366.37966069129
+run_0002_seed_1011,stress,full_rated_power_ignoring_DA,20,0,20,5.0,3534.0

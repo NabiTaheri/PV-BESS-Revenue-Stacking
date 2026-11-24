@@ -1,0 +1,8 @@
+{
+  "scope": "Counterfactual headroom sensitivity of reconstructed constant-fraction 15-minute activation profiles; read-only.",
+  "remaining_only_V4": "Uses only residual reservation power minus scheduled DA charge/discharge, as in V4.",
+  "remaining_plus_recovery_locks": "Hypothetically releases MW marked for reserve recovery as part of accessible SOC-restoration capability. This may NOT reflect actual rules or scheduling.",
+  "full_rated_power_minus_DA": "Ignores reserve locks while keeping baseline DA power scheduled; optimistic physical-power upper bound, not a market-feasible schedule.",
+  "full_rated_power_ignoring_DA": "Extreme upper bound; ignores concurrent scheduled DA consumption and reserved capacity, not physically simultaneous.",
+  "caution": "Differences among cases mean V4 rates cannot be asserted as actual physical infeasibility. No new S3-net or penalties computed."
+}

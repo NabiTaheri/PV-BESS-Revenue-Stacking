@@ -1,0 +1,13 @@
+{
+  "method": "ex-post approximate 15-minute reconstruction with greedy next-slot recovery; SOC tested against physical 20-80% battery limits, not already-tightened post-reservation dispatch envelopes",
+  "selection": "FIRST_N_IN_STAGE2_MANIFEST__NOT_INDEPENDENTLY_VERIFIED_AS_CONVERGENCE_SELECTION",
+  "n_base": 2,
+  "samples_per_base_and_regime": 20,
+  "parameters": {
+    "eta_charge": 0.95,
+    "eta_discharge": 0.95,
+    "battery_energy_mwh": 10.0,
+    "dt_h": 0.25
+  },
+  "warning": "Not observed physical infeasibility. Not an optimized recourse or actual activation replay. These are conditional screens under synthetic temporal allocation and conservative greedy recovery. Monthly totals are validated against original Stage-2 sample energy. IMPORTANT: baseline post-reservation SOC and dispatch-power inconsistencies are reported separately and require evaluation prior to publication. Physical limits 20-80% must be confirmed against actual config."
+}

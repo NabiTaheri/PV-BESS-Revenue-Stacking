@@ -1,0 +1,4 @@
+market,distribution,beta_alpha,beta_beta,theoretical_mean,sample_mean
+FCR,beta,1,19,0.05,0.050057290229251476
+aFRR,beta,2,38,0.05,0.05015662043976821
+mFRR,beta,3,17,0.15,0.14971858714881803

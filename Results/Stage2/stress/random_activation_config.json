@@ -1,0 +1,11 @@
+{
+  "source": "vectorized algebraically equivalent activation calculator",
+  "case": "stress",
+  "n_base": 129,
+  "n_activation_per_base": 1000,
+  "seed_formula": "20260622 + base_seed * 1009",
+  "prices": "Data/settlement_prices.csv",
+  "fcr_energy_cashflow": false,
+  "afrr_mfrr_energy_cashflow": true,
+  "opportunity_cost_method": "set separately in run manifest"
+}

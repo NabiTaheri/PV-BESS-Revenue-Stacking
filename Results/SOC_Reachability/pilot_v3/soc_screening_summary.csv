@@ -1,0 +1,3 @@
+regime,n_base,n_samples,instant_headroom_screen_pct,greedy_policy_any_soc_breach_pct,greedy_policy_mean_max_excursion_mwh,mean_end_month_unrestored_soc_mwh,max_reconstruction_error_mwh
+reference,2,40,90.0,100.0,0.1030766376582333,0.052711940011065314,5.1514348342607263e-14
+stress,2,40,100.0,100.0,178.46454111488987,158.4170331051046,2.273736754432321e-13

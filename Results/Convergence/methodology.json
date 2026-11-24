@@ -1,0 +1,21 @@
+{
+  "purpose": "Retrospective Reference-only convergence; Stress is sensitivity evaluated at selected Reference N",
+  "first_checkpoint": 50,
+  "step": 10,
+  "reference_stability_window_checkpoints": 3,
+  "consecutive_full_passes_required": 3,
+  "robustness_check": "All subsequent regular checkpoints and final available partial block must pass",
+  "revenue_ci_halfwidth_ratio": 0.05,
+  "paired_gap_ci_halfwidth_ratio": 0.1,
+  "near_zero_gap_floor_ratio_to_abs_s2": 0.02,
+  "adjacent_cumulative_mean_drift_ratio": 0.02,
+  "probability_class_boundaries": [
+    0.2,
+    0.8
+  ],
+  "confidence_interval_method": "Nominal 95% t intervals of independent base-level outcomes; activation trials nested within base",
+  "threshold_status": "PROVISIONAL until critically reviewed and fixed for manuscript",
+  "sequential_inference_caveat": "Repeated nominal t CIs do not themselves establish family-wise 95% sequential coverage",
+  "stress_convergence_tested": false,
+  "online_stopping_claim": false
+}

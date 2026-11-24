@@ -1,0 +1,5 @@
+regime,base_run,sample_id,purpose,first_greedy_soc_breach_time,breach_slots,max_excursion_mwh,reconstruction_error_mwh,trace_file
+reference,run_0001_seed_1010,1,first,2026-05-06 09:15:00,2,0.06216640413837049,5.329070518200751e-15,D:\Baltic_SOC_Audit\diagnostics\reference_first_run_0001_seed_1010_sample0001_15min_trace.csv
+reference,run_0001_seed_1010,6,worst,2026-05-06 09:15:00,2,0.2754257448873727,1.4210854715202004e-14,D:\Baltic_SOC_Audit\diagnostics\reference_worst_run_0001_seed_1010_sample0006_15min_trace.csv
+stress,run_0001_seed_1010,1,first,2026-05-02 18:00:00,2404,228.2425543181673,1.1368683772161603e-13,D:\Baltic_SOC_Audit\diagnostics\stress_first_run_0001_seed_1010_sample0001_15min_trace.csv
+stress,run_0002_seed_1011,18,worst,2026-05-01 14:00:00,2772,385.02654766743143,2.2737367544323206e-13,D:\Baltic_SOC_Audit\diagnostics\stress_worst_run_0002_seed_1011_sample0018_15min_trace.csv

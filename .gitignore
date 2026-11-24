@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+generated/
+.venv/
+.vscode/
+.idea/
+reproduced_may_selected/
+_workspaces_*/
+studies/
+mean_drift_check/
+baltic_result_audit/
+START_FULL_MAY.ps1
+START_ADDITIONAL_STUDIES.ps1
+.DS_Store
+Thumbs.db

@@ -1,0 +1,27 @@
+{
+  "month": "May_2026",
+  "n_selected": 120,
+  "selected_file": "D:\\Baltic_Convergence_50_step10\\selected_base_scenarios.csv",
+  "stage2_root": "D:\\BalticMay2026Final\\stage2_full_20261121_223238",
+  "settlement_engine_file": "D:\\BalticMay2026Final\\1000maker.py",
+  "settlement_engine_sha256": "38f3d2b7d93e6546de2a918d5834f3877db9b8e84fd7cbbb74448a1c61855359",
+  "settlement_prices_sha256": "1227255e2cc12e77286cfe56cc794654b28b65253b4130628357415cfcf0383c",
+  "phi_FCR_range": [
+    0,
+    1
+  ],
+  "phi_R_range": [
+    0,
+    1
+  ],
+  "phi_R_definition": "phi_aFRR = phi_mFRR",
+  "fcr_up_share": 0.9,
+  "grid_points_per_axis": 41,
+  "method": "Verified engine-affine sweep (off-grid direct checks for all 120 bases)",
+  "no_first_level_simulation": true,
+  "current_accounting": "S3_net = S3_gross + aFRR/mFRR activation cashflow - net recovery - degradation",
+  "zero_boundary_present": true,
+  "mean_S2_eur": 69212.67131912788,
+  "mean_S3_gross_eur": 128571.5780372959,
+  "mean_gap_at_zero_activation_eur": 59358.906718168015
+}

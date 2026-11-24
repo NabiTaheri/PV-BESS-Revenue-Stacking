@@ -1,0 +1,9 @@
+regime,headroom_interpretation,base_count,sample_count,infeasible_samples,infeasible_pct,terminal_zero_reachable_pct,max_monthly_reconstruction_error_mwh
+reference,remaining_only_V4,120,120000,0,0.0,99.95416666666667,1.4210854715202004e-13
+reference,remaining_plus_recovery_locks,120,120000,0,0.0,100.0,1.4210854715202004e-13
+reference,full_rated_power_minus_DA,120,120000,0,0.0,100.0,1.4210854715202004e-13
+reference,full_rated_power_ignoring_DA,120,120000,0,0.0,100.0,1.4210854715202004e-13
+stress,remaining_only_V4,120,120000,120000,100.0,0.0,5.684341886080801e-13
+stress,remaining_plus_recovery_locks,120,120000,0,0.0,100.0,5.684341886080801e-13
+stress,full_rated_power_minus_DA,120,120000,0,0.0,100.0,5.684341886080801e-13
+stress,full_rated_power_ignoring_DA,120,120000,0,0.0,100.0,5.684341886080801e-13

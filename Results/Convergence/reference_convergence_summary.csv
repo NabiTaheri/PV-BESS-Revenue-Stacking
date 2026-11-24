@@ -1,0 +1,2 @@
+month,total_valid_bases,first_checkpoint,checkpoint_step,last_regular_checkpoint,last_regular_pass,final_available_n,final_available_pass,first_three_pass_streak_n,reference_confirmed_n,reference_convergence_status,reference_final_gap_decision,reference_final_probability_class
+May_2026,129,50,10,120,True,129,True,100,120,confirmed_retrospectively,S3_favoured,high
