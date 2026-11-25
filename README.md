@@ -97,7 +97,7 @@ under the specified recovery-power and activation assumptions.
 | S3 gross (EUR) | 128571.58 | 128571.58 |
 | S3 net (EUR) | 124215.86 | 40578.41 |
 | Paired revenue difference (EUR) | 55003.19 | -28634.26 |
-| Probability of S3 >= S2 (%) | 100.00 | 5.4967 |
+| Empirical probability of S3-net >= S2 (%) | 100.00 | 5.4967 |
 
 ## 7. Random Seed Reproducibility
 
@@ -154,8 +154,9 @@ are identified in Results/selected_scenarios.csv.
 The convergence scripts reproduce the archived evidence
 supporting the selected scenario count.
 
-The six supplementary analyses have been independently
-re-executed using the files provided in this package.
+All six supplementary analyses have been successfully
+re-executed using the archived inputs provided in
+this repository.
 
 The original optimization implementation is preserved.
 Legacy exploratory runners are retained where needed for
