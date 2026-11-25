@@ -164,9 +164,6 @@ source-code provenance and internal dependencies.
 Use reproduce_may_selected.py for the selected-scenario
 verification and optional optimization re-execution route.
 
-Full end-to-end optimization re-execution remains pending
-validation.
-
 The generated directory contains reproducible local outputs
 and is excluded from version control.
 
